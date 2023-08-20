@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Navbar/>
-      <section className="w-screen h-screen snap-y snap-mandatory overflow-x-hidden text-white scroll-smooth">
+      <section className="w-screen h-screen snap-y snap-mandatory overflow-x-hidden text-white scroll-smooth bg-purple-950">
       <Home/>
       <Project/>
       <Contact/>
