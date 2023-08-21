@@ -1,3 +1,4 @@
+import CanvasHero from "./Components/CanvasHero"
 import Navbar from "./Components/Navbar"
 import Contact from "./pages/Contact"
 import Home from "./pages/Home"
