@@ -10,10 +10,11 @@ function App() {
   return (
     <>
       <Navbar/>
-      <section className="w-screen h-screen snap-y snap-mandatory overflow-x-hidden text-white scroll-smooth bg-purple-950">
-      <Home/>
-      <Project/>
-      <Contact/>
+      <section className="w-screen h-screen snap-y snap-mandatory overflow-x-hidden text-white scroll-smooth">
+      {/* <Home/> */}
+      <CanvasHero/>
+      {/* <Project/>
+      <Contact/> */}
       </section>
     </>
   )
